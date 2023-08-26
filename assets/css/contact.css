@@ -58,6 +58,55 @@ body {
 /* Nav Bar End */
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+/* Nav Bar Start */
+#navSection {
+    width: 100%;
+    height: 60px;
+    background-color: #202020;
+    position: relative;
+}
+
+.navbar {
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.menu {
+    display: flex;
+    gap: 45px;
+    margin: auto;
+    align-items: center;
+}
+
+.menu li {
+    list-style-type: none;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.contact-btn {
+    background-color: #900505;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+/* Nav Bar End */
+
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 /* Mobile Nav Bar Start */
 #mobileHam {
     width: 100%;
@@ -76,11 +125,25 @@ body {
     display: flex;
     justify-content: space-between;
     margin: auto;
+<<<<<<< HEAD
     align-items: center;
+=======
+<<<<<<< HEAD
+    align-items: center;
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 .mobile-ham-menu li {
     list-style-type: none;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    font-size: 35px;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 .mobile-ham-menu li:hover {
@@ -92,6 +155,10 @@ body {
     margin-right: 20px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 #social-icons {
     margin: 0;
 }
@@ -105,13 +172,29 @@ body {
 #hamBtn {
     margin: 0;
     font-size: 35px;
+<<<<<<< HEAD
+=======
+=======
+#closeBtn {
+    display: none;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 #mobileNav {
     display: none;
     height: 100vh;
+<<<<<<< HEAD
     background-color: #444444;
     margin-top: -60px;
+=======
+<<<<<<< HEAD
+    background-color: #444444;
+    margin-top: -60px;
+=======
+    background-color: #202020;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 .mobile-nav-wrapper {
@@ -136,10 +219,23 @@ body {
     border-bottom: 1px solid #ffffff;
     width: 60%;
     margin: auto;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     padding: 20px 0;
 }
 
 .menu-mobile li a {
+<<<<<<< HEAD
+=======
+=======
+    padding: 30px 0;
+}
+
+.menu-mobile li a{
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     text-decoration: none;
     text-transform: uppercase;
     color: #ffffff;
@@ -152,6 +248,10 @@ body {
 /* Mobile Nav Bar End */
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 /* Hero Section Start */
 #hero-section {
     background-image: url("../img/hero_img_main.jpg");
@@ -489,6 +589,12 @@ body {
 }
 
 /* Gallery End */
+<<<<<<< HEAD
+=======
+=======
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
 
 /* Footer Start */
@@ -499,7 +605,15 @@ body {
 }
 
 .footer-wrapper {
+<<<<<<< HEAD
     width: 60%;
+=======
+<<<<<<< HEAD
+    width: 60%;
+=======
+    width: 80%;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     margin: auto;
     padding: 50px 0;
     display: flex;
@@ -532,7 +646,14 @@ body {
     text-transform: uppercase;
     font-size: 20px;
     padding: 10px 0;
+<<<<<<< HEAD
     font-weight: 600;
+=======
+<<<<<<< HEAD
+    font-weight: 600;
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 .social-icons i {
@@ -544,7 +665,15 @@ body {
     color: #ffffff;
     text-transform: uppercase;
     font-size: 16px;
+<<<<<<< HEAD
     font-weight: 600;
+=======
+<<<<<<< HEAD
+    font-weight: 600;
+=======
+    font-weight: 550;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     padding-bottom: 10px;
 }
 
@@ -574,7 +703,15 @@ body {
 }
 
 .copyright-wrapper {
+<<<<<<< HEAD
     width: 60%;
+=======
+<<<<<<< HEAD
+    width: 60%;
+=======
+    width: 80%;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -590,6 +727,10 @@ body {
     margin: 0;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 /* Footer End */
 
 
@@ -599,6 +740,21 @@ body {
         font-size: 25px;
         padding: 20px 0;
     }
+<<<<<<< HEAD
+=======
+=======
+.hero-logo {
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+}
+/* Footer End */
+
+
+@media screen and (max-width: 768px) {
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
     /* Nav Bar Start */
     #navSection {
@@ -609,7 +765,14 @@ body {
         display: flex;
     }
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     /* Nav Bar End */
 
 
@@ -619,6 +782,10 @@ body {
 
 
     /* About Us Start */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .about-us-wrapper {
         width: 80%;
         margin: auto;
@@ -648,11 +815,20 @@ body {
         background-position: center;
         background-size: cover;
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
     /* About Us End */
 
 
     /* Why Us Start */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .why-us-wrapper {
         width: 80%;
         margin: auto;
@@ -671,12 +847,21 @@ body {
     .option-img {
         font-size: 30px;
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
     /* Why Us End */
 
 
     /* Products Start */
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .product-wrapper {
         width: 80%;
         margin: auto;
@@ -708,10 +893,19 @@ body {
         cursor: pointer;
     }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     /* Products End */
 
 
     /* Gallery Start */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .gallery-wrapper {
         width: 80%;
         margin: auto;
@@ -749,11 +943,20 @@ body {
         padding: 16px;
         border-radius: 10px;
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
     /* Gallery End */
 
 
     /* Footer Start */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .footer-wrapper {
         width: 80%;
         margin: auto;
@@ -790,18 +993,35 @@ body {
     .copyright-details {
         font-size: 12px;
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
     /* Footer End */
 
 }
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 @media screen and (max-width: 650px) {
 
     .section-title {
         font-size: 20px;
         padding: 20px 0;
     }
+<<<<<<< HEAD
+=======
+=======
+@media screen and (min-width: 600px) {
+
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
 
     /* Nav Bar Start */
@@ -811,6 +1031,10 @@ body {
 
     /* Hero Section Start */
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .main-title {
         font-size: 50px;
     }
@@ -844,11 +1068,20 @@ body {
         padding-left: 5px;
     }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     /* Hero Section End */
 
 
     /* About Us Start */
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .about-grid {
         display: inline
     }
@@ -872,10 +1105,19 @@ body {
         margin-bottom: 20px;
     }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     /* About Us End */
 
 
     /* Why Us Start */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .why-us-wrapper {
         width: 80%;
         margin: auto;
@@ -899,14 +1141,29 @@ body {
     .option-img {
         font-size: 20px;
     }
+<<<<<<< HEAD
+=======
+=======
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     /* Why Us End */
 
 
     /* Products Start */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .product-name {
         font-size: 12px;
         font-weight: 500;
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
     /* Products End */
 
@@ -917,6 +1174,10 @@ body {
 
 
     /* Footer Start */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     
     .footer-wrapper {
         width: 80%;
@@ -1003,6 +1264,11 @@ body {
         display: flex;
         margin: 0;
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
     /* Footer End */
 

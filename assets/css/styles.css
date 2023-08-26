@@ -76,11 +76,25 @@ body {
     display: flex;
     justify-content: space-between;
     margin: auto;
+<<<<<<< HEAD
     align-items: center;
+=======
+<<<<<<< HEAD
+    align-items: center;
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 .mobile-ham-menu li {
     list-style-type: none;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    font-size: 35px;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 .mobile-ham-menu li:hover {
@@ -92,6 +106,10 @@ body {
     margin-right: 20px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 #social-icons {
     margin: 0;
 }
@@ -105,13 +123,29 @@ body {
 #hamBtn {
     margin: 0;
     font-size: 35px;
+<<<<<<< HEAD
+=======
+=======
+#closeBtn {
+    display: none;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 #mobileNav {
     display: none;
     height: 100vh;
+<<<<<<< HEAD
     background-color: #444444;
     margin-top: -60px;
+=======
+<<<<<<< HEAD
+    background-color: #444444;
+    margin-top: -60px;
+=======
+    background-color: #202020;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 }
 
 .mobile-nav-wrapper {
@@ -136,10 +170,23 @@ body {
     border-bottom: 1px solid #ffffff;
     width: 60%;
     margin: auto;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     padding: 20px 0;
 }
 
 .menu-mobile li a {
+<<<<<<< HEAD
+=======
+=======
+    padding: 30px 0;
+}
+
+.menu-mobile li a{
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     text-decoration: none;
     text-transform: uppercase;
     color: #ffffff;
@@ -387,7 +434,15 @@ body {
     height: 40px;
     text-align: center;
     justify-content: center;
+<<<<<<< HEAD
     padding-top: 10px;
+=======
+<<<<<<< HEAD
+    padding-top: 10px;
+=======
+    padding-top: 15px;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     font-weight: 500;
 }
 
@@ -605,12 +660,28 @@ body {
     #navSection {
         display: none;
     }
+<<<<<<< HEAD
 
     #mobileHam {
         display: flex;
     }
 
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
 
+    #mobileHam {
+        display: flex;
+    }
+
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+
+    #mobileHam {
+        display: flex;
+    }
+
+    
     /* Nav Bar End */
 
 
@@ -799,10 +870,19 @@ body {
 
 @media screen and (max-width: 650px) {
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fe36ab23b2cbcbd4071f803701869be6948b6108
     .section-title {
         font-size: 20px;
         padding: 20px 0;
     }
+=======
+
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
+
 
 
     /* Nav Bar Start */
