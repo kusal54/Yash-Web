@@ -436,7 +436,7 @@ body {
 
 .img1 {
     background-image: url("../img/g1.jpeg");
-    height: 610px;
+    height: 600px;
     width: 30vw;
     background-size: cover;
     background-position: center;
@@ -475,9 +475,8 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    padding: 18px;
+    padding: 22px;
     border-radius: 10px;
-    text-transform: uppercase;
 }
 
 .gallery-left a:hover {
@@ -727,19 +726,19 @@ body {
     .img2 {
         background-image: url("../img/g2.jfif");
         height: 150px;
-        width: 39vw;
+        width: 40vw;
     }
 
     .img3 {
         background-image: url("../img/g3.jfif");
         height: 150px;
-        width: 39vw;
+        width: 40vw;
     }
 
     .img4 {
         background-image: url("../img/g4.jfif");
         height: 150px;
-        width: 39vw;
+        width: 40vw;
     }
 
     .gallery-left a {
@@ -810,97 +809,7 @@ body {
     /* Nav Bar End */
 
 
-    /* Hero Section Start */
-
-    .main-title {
-        font-size: 50px;
-    }
-
-    .sub-title {
-        font-size: 20px;
-
-    }
-
-    .hero-pra {
-        color: #ffffff;
-        font-size: 16px;
-        font-weight: 400;
-        text-align: center;
-        width: 60%;
-        margin: auto;
-        padding: 20px 0;
-        padding-bottom: 50px;
-    }
-
-    .hero-title-wrapper a {
-        color: #ffffff;
-        font-size: 16px;
-        text-decoration: none;
-        border: 1px solid #ffffff;
-        padding: 5px 10px;
-        text-transform: uppercase;
-    }
-
-    .hero-title-wrapper span {
-        padding-left: 5px;
-    }
-
-    /* Hero Section End */
-
-
-    /* About Us Start */
-
-    .about-grid {
-        display: inline
-    }
-
-    .about-us-grid a {
-        color: #202020;
-        font-size: 14px;
-        text-decoration: none;
-        border: 1px solid #202020;
-        padding: 5px 10px;
-        text-transform: uppercase;
-        display: flex;
-        justify-content: center;
-        font-weight: 500;
-        margin-top: 20px;
-    }
-
-    .about-img {
-        height: 200px;
-        margin-top: -40px;
-        margin-bottom: 20px;
-    }
-
-    /* About Us End */
-
-
-    /* Why Us Start */
-    .why-us-wrapper {
-        width: 80%;
-        margin: auto;
-    }
-
-    .why-us-options {
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .option {
-        height: 150px;
-        width: 20vw;
-        background-color: #202020;
-    }
-
-    .option-name {
-        font-size: 12px;
-    }
-
-    .option-img {
-        font-size: 20px;
-    }
-    /* Why Us End */
+    
 
 
     /* Products Start */
@@ -909,77 +818,11 @@ body {
         font-weight: 500;
     }
 
-    .products {
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-    }
-    
-    .product-img-1 {
-        width: 100%;
-        height: 300px;
-        background-image: url(../img/pellets.jpg);
-        background-size: cover;
-        background-position: center;
-    }
-    
-    .product-img-2 {
-        width: 100%;
-        height: 300px;
-        background-image: url(../img/bbq.jfif);
-        background-size: cover;
-        background-position: center;
-    }
-    
-    .product-img-3 {
-        width: 100%;
-        height: 300px;
-        background-image: url(../img/fridge.jfif);
-        background-size: cover;
-        background-position: center;
-    }
-
     /* Products End */
 
 
     /* Gallery Start */
-    .gallery-wrapper {
-        width: 80%;
-        margin: auto;
-    }
 
-    .img1 {
-        background-image: url("../img/g1.jpeg");
-        height: 350px;
-        width: 39vw;
-    }
-
-    .img2 {
-        background-image: url("../img/g2.jfif");
-        height: 130px;
-        width: 39vw;
-    }
-
-    .img3 {
-        background-image: url("../img/g3.jfif");
-        height: 130px;
-        width: 39vw;
-    }
-
-    .img4 {
-        background-image: url("../img/g4.jfif");
-        height: 130px;
-        width: 39vw;
-    }
-
-    .gallery-left a {
-        background-color: #202020;
-        color: #ffffff;
-        text-align: center;
-        text-decoration: none;
-        padding: 16px;
-        border-radius: 10px;
-    }
     /* Gallery End */
 
 
