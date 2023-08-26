@@ -358,13 +358,7 @@ body {
     text-align: center;
     justify-content: center;
     padding-top: 15px;
-    font-weight: 500;
-}
-
-.product-name:hover {
-    background-color: #202020;
-    color: #ffffff;
-    cursor: pointer;
+    font-weight: 600;
 }
 
 .product-1 {
@@ -554,6 +548,11 @@ body {
     margin: 0;
 }
 
+.hero-logo {
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+}
 /* Footer End */
 
 
@@ -569,7 +568,6 @@ body {
         display: flex;
     }
 
-    
     /* Nav Bar End */
 
 
