@@ -58,6 +58,52 @@ body {
 /* Nav Bar End */
 
 
+<<<<<<< HEAD
+=======
+/* Nav Bar Start */
+#navSection {
+    width: 100%;
+    height: 60px;
+    background-color: #202020;
+    position: relative;
+}
+
+.navbar {
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.menu {
+    display: flex;
+    gap: 45px;
+    margin: auto;
+    align-items: center;
+}
+
+.menu li {
+    list-style-type: none;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.contact-btn {
+    background-color: #900505;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+/* Nav Bar End */
+
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 /* Mobile Nav Bar Start */
 #mobileHam {
     width: 100%;
@@ -76,11 +122,18 @@ body {
     display: flex;
     justify-content: space-between;
     margin: auto;
+<<<<<<< HEAD
     align-items: center;
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 }
 
 .mobile-ham-menu li {
     list-style-type: none;
+<<<<<<< HEAD
+=======
+    font-size: 35px;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 }
 
 .mobile-ham-menu li:hover {
@@ -92,6 +145,7 @@ body {
     margin-right: 20px;
 }
 
+<<<<<<< HEAD
 #social-icons {
     margin: 0;
 }
@@ -105,13 +159,21 @@ body {
 #hamBtn {
     margin: 0;
     font-size: 35px;
+=======
+#closeBtn {
+    display: none;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 }
 
 #mobileNav {
     display: none;
     height: 100vh;
+<<<<<<< HEAD
     background-color: #444444;
     margin-top: -60px;
+=======
+    background-color: #202020;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 }
 
 .mobile-nav-wrapper {
@@ -136,10 +198,17 @@ body {
     border-bottom: 1px solid #ffffff;
     width: 60%;
     margin: auto;
+<<<<<<< HEAD
     padding: 20px 0;
 }
 
 .menu-mobile li a {
+=======
+    padding: 30px 0;
+}
+
+.menu-mobile li a{
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     text-decoration: none;
     text-transform: uppercase;
     color: #ffffff;
@@ -152,6 +221,7 @@ body {
 /* Mobile Nav Bar End */
 
 
+<<<<<<< HEAD
 /* Hero Section Start */
 #hero-section {
     background-image: url("../img/hero_img_main.jpg");
@@ -489,6 +559,9 @@ body {
 }
 
 /* Gallery End */
+=======
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
 
 /* Footer Start */
@@ -499,7 +572,11 @@ body {
 }
 
 .footer-wrapper {
+<<<<<<< HEAD
     width: 60%;
+=======
+    width: 80%;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     margin: auto;
     padding: 50px 0;
     display: flex;
@@ -532,7 +609,10 @@ body {
     text-transform: uppercase;
     font-size: 20px;
     padding: 10px 0;
+<<<<<<< HEAD
     font-weight: 600;
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 }
 
 .social-icons i {
@@ -544,7 +624,11 @@ body {
     color: #ffffff;
     text-transform: uppercase;
     font-size: 16px;
+<<<<<<< HEAD
     font-weight: 600;
+=======
+    font-weight: 550;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     padding-bottom: 10px;
 }
 
@@ -574,7 +658,11 @@ body {
 }
 
 .copyright-wrapper {
+<<<<<<< HEAD
     width: 60%;
+=======
+    width: 80%;
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -590,6 +678,7 @@ body {
     margin: 0;
 }
 
+<<<<<<< HEAD
 /* Footer End */
 
 
@@ -599,6 +688,18 @@ body {
         font-size: 25px;
         padding: 20px 0;
     }
+=======
+.hero-logo {
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+}
+/* Footer End */
+
+
+@media screen and (max-width: 768px) {
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
     /* Nav Bar Start */
     #navSection {
@@ -609,7 +710,10 @@ body {
         display: flex;
     }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     /* Nav Bar End */
 
 
@@ -619,6 +723,7 @@ body {
 
 
     /* About Us Start */
+<<<<<<< HEAD
     .about-us-wrapper {
         width: 80%;
         margin: auto;
@@ -648,11 +753,14 @@ body {
         background-position: center;
         background-size: cover;
     }
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
     /* About Us End */
 
 
     /* Why Us Start */
+<<<<<<< HEAD
     .why-us-wrapper {
         width: 80%;
         margin: auto;
@@ -671,12 +779,15 @@ body {
     .option-img {
         font-size: 30px;
     }
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
     /* Why Us End */
 
 
     /* Products Start */
 
+<<<<<<< HEAD
     .product-wrapper {
         width: 80%;
         margin: auto;
@@ -708,10 +819,13 @@ body {
         cursor: pointer;
     }
 
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     /* Products End */
 
 
     /* Gallery Start */
+<<<<<<< HEAD
     .gallery-wrapper {
         width: 80%;
         margin: auto;
@@ -749,11 +863,14 @@ body {
         padding: 16px;
         border-radius: 10px;
     }
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
     /* Gallery End */
 
 
     /* Footer Start */
+<<<<<<< HEAD
     .footer-wrapper {
         width: 80%;
         margin: auto;
@@ -790,18 +907,26 @@ body {
     .copyright-details {
         font-size: 12px;
     }
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
     /* Footer End */
 
 }
 
 
+<<<<<<< HEAD
 @media screen and (max-width: 650px) {
 
     .section-title {
         font-size: 20px;
         padding: 20px 0;
     }
+=======
+@media screen and (min-width: 600px) {
+
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
 
     /* Nav Bar Start */
@@ -811,6 +936,7 @@ body {
 
     /* Hero Section Start */
 
+<<<<<<< HEAD
     .main-title {
         font-size: 50px;
     }
@@ -844,11 +970,14 @@ body {
         padding-left: 5px;
     }
 
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     /* Hero Section End */
 
 
     /* About Us Start */
 
+<<<<<<< HEAD
     .about-grid {
         display: inline
     }
@@ -872,10 +1001,13 @@ body {
         margin-bottom: 20px;
     }
 
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     /* About Us End */
 
 
     /* Why Us Start */
+<<<<<<< HEAD
     .why-us-wrapper {
         width: 80%;
         margin: auto;
@@ -899,14 +1031,20 @@ body {
     .option-img {
         font-size: 20px;
     }
+=======
+
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
     /* Why Us End */
 
 
     /* Products Start */
+<<<<<<< HEAD
     .product-name {
         font-size: 12px;
         font-weight: 500;
     }
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
     /* Products End */
 
@@ -917,6 +1055,7 @@ body {
 
 
     /* Footer Start */
+<<<<<<< HEAD
     
     .footer-wrapper {
         width: 80%;
@@ -1003,6 +1142,8 @@ body {
         display: flex;
         margin: 0;
     }
+=======
+>>>>>>> 2946a449fce1a02cac9ef42c117f14c7b26d0b2b
 
     /* Footer End */
 
